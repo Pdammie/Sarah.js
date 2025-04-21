@@ -1,0 +1,16 @@
+
+
+mac@MacBookPro Dami assigment. NextGen % node index.js
+{
+  destination: 'Abuja',
+  duration: '15 hours',
+  activities: [ 'swimming', 'mountain hike', 'visit aso rock', 'market tour' ],
+  budget: '150 thousand naira'
+}
+28
+I LOVE TABITHA
+26
+Adewale
+mac@MacBookPro Dami assigment. NextGen % node index.js
+// 
+
